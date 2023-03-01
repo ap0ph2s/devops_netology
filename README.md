@@ -1,1 +1,1 @@
-# devops_netology
+# devops_netologysome text
