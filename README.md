@@ -7,3 +7,4 @@
 * исключить файлы override.tf и override.tf.json в этой и всех вложенных папках
 * исключить все файлы в этой и всех вложенных папках, если они кончаются на _override.tf или _override.tf.json
 * исключить файлы terraform.rc и .terraformrc в этой и всех вложенных папках
+add new line
